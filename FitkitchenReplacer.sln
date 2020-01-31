@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FitkitchenReplacer", "FitkitchenReplacer\FitkitchenReplacer.fsproj", "{10C01D6F-7AAA-4F45-9783-786CB53FAAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C01D6F-7AAA-4F45-9783-786CB53FAAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C01D6F-7AAA-4F45-9783-786CB53FAAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C01D6F-7AAA-4F45-9783-786CB53FAAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C01D6F-7AAA-4F45-9783-786CB53FAAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
